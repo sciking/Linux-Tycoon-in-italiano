@@ -38,9 +38,9 @@ Packages : A semicolon (;) delimited list, with no additional spaces, of the Nam
 <root Name="Standard" LocalDistro="">
 
 <packages>
-<package Name="Midget" Bugs="2" Description="Lightweight, simple desktop environment." NerdCred="3" Popularity="20" SizeInMB="20" TypeOfSoftware="3" Version="1" isOpenSource="True"/>
-<package Name="QDE" Bugs="3" Description="The Q Desktop Environment.  Big.  Slow.  Lots and lots of desktop widgets." NerdCred="3" Popularity="10" SizeInMB="50" TypeOfSoftware="3" Version="1" isOpenSource="True"/>
-<package Name="UCDE" Bugs="0" Description="The Ultra Confusing Desktop Environment.  There are no icons.  Only terminals." NerdCred="20" Popularity="1" SizeInMB="1" TypeOfSoftware="3" Version="1" isOpenSource="True"/>
+<package Name="Midget" Bugs="2" Description="Ambiente semplice e leggero." NerdCred="3" Popularity="20" SizeInMB="20" TypeOfSoftware="3" Version="1" isOpenSource="True"/>
+<package Name="QDE" Bugs="3" Description="Il Q Desktop Environment.  Grosso.  Lento.  Tantissimi widger" NerdCred="3" Popularity="10" SizeInMB="50" TypeOfSoftware="3" Version="1" isOpenSource="True"/>
+<package Name="ADMC" Bugs="0" Description="Ambiente Desktop molto confusionario.  There are no icons.  Only terminals." NerdCred="20" Popularity="1" SizeInMB="1" TypeOfSoftware="3" Version="1" isOpenSource="True"/>
 <package Name="FlamingRodent" Bugs="4" Description="A big, powerful web browser.  Lots of features and lots of extensions." NerdCred="3" Popularity="15" SizeInMB="10" TypeOfSoftware="1" Version="1" isOpenSource="True"/>
 <package Name="ShmoogleShrome" Bugs="2" Description="Lightweight and superfast web browser." NerdCred="3" Popularity="10" SizeInMB="10" TypeOfSoftware="1" Version="1" isOpenSource="True"/>
 <package Name="Text-O-Web" Bugs="0" Description="A Text-only web browser that runs in the Terminal." NerdCred="20" Popularity="0" SizeInMB="1" TypeOfSoftware="1" Version="1" isOpenSource="True"/>
