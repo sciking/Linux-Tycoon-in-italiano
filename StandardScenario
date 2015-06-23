@@ -40,14 +40,14 @@ Packages : A semicolon (;) delimited list, with no additional spaces, of the Nam
 <packages>
 <package Name="Midget" Bugs="2" Description="Ambiente semplice e leggero." NerdCred="3" Popularity="20" SizeInMB="20" TypeOfSoftware="3" Version="1" isOpenSource="True"/>
 <package Name="QDE" Bugs="3" Description="Il Q Desktop Environment.  Grosso.  Lento.  Tantissimi widger" NerdCred="3" Popularity="10" SizeInMB="50" TypeOfSoftware="3" Version="1" isOpenSource="True"/>
-<package Name="ADMC" Bugs="0" Description="Ambiente Desktop molto confusionario.  There are no icons.  Only terminals." NerdCred="20" Popularity="1" SizeInMB="1" TypeOfSoftware="3" Version="1" isOpenSource="True"/>
-<package Name="FlamingRodent" Bugs="4" Description="A big, powerful web browser.  Lots of features and lots of extensions." NerdCred="3" Popularity="15" SizeInMB="10" TypeOfSoftware="1" Version="1" isOpenSource="True"/>
-<package Name="ShmoogleShrome" Bugs="2" Description="Lightweight and superfast web browser." NerdCred="3" Popularity="10" SizeInMB="10" TypeOfSoftware="1" Version="1" isOpenSource="True"/>
-<package Name="Text-O-Web" Bugs="0" Description="A Text-only web browser that runs in the Terminal." NerdCred="20" Popularity="0" SizeInMB="1" TypeOfSoftware="1" Version="1" isOpenSource="True"/>
-<package Name="ReallyFreeOffice" Bugs="4" Description="A big, powerful office suite." NerdCred="5" Popularity="15" SizeInMB="60" TypeOfSoftware="2" Version="1" isOpenSource="True"/>
-<package Name="SpAnDeX" Bugs="1" Description="Hard to use and complicated way to build documents." NerdCred="15" Popularity="2" SizeInMB="3" TypeOfSoftware="2" Version="1" isOpenSource="True"/>
-<package Name="OkayOffice" Bugs="1" Description="This office suite... is pretty ok." NerdCred="10" Popularity="10" SizeInMB="40" TypeOfSoftware="2" Version="1" isOpenSource="True"/>
-<package Name="PenguinZoomer" Bugs="1" Description="Race around and pretend that penguins are like cars." NerdCred="3" Popularity="8" SizeInMB="20" TypeOfSoftware="4" Version="1" isOpenSource="True"/>
+<package Name="ADMC" Bugs="0" Description="Ambiente Desktop molto confusionario.  No icone, solo terminale" NerdCred="20" Popularity="1" SizeInMB="1" TypeOfSoftware="3" Version="1" isOpenSource="True"/>
+<package Name="Bruciastoro" Bugs="4" Description="Un browser potente. Moltissime estensioni" NerdCred="3" Popularity="15" SizeInMB="10" TypeOfSoftware="1" Version="1" isOpenSource="True"/>
+<package Name="Vanadium" Bugs="2" Description="Browser leggero e superveloce" NerdCred="3" Popularity="10" SizeInMB="10" TypeOfSoftware="1" Version="1" isOpenSource="True"/>
+<package Name="Text-O-Web" Bugs="0" Description="Browser testuale da terminale." NerdCred="20" Popularity="0" SizeInMB="1" TypeOfSoftware="1" Version="1" isOpenSource="True"/>
+<package Name="UfficioAperto" Bugs="4" Description="Una suite da uffico potente e pesante" NerdCred="5" Popularity="15" SizeInMB="60" TypeOfSoftware="2" Version="1" isOpenSource="True"/>
+<package Name="QDOffice" Bugs="1" Description="Un programma complesso per fare documenti" NerdCred="15" Popularity="2" SizeInMB="3" TypeOfSoftware="2" Version="1" isOpenSource="True"/>
+<package Name="UfficoSemplice" Bugs="1" Description="Quiesta suite...è decente." NerdCred="10" Popularity="10" SizeInMB="40" TypeOfSoftware="2" Version="1" isOpenSource="True"/>
+<package Name="RuxAuto" Bugs="1" Description="Un gioco di auto con pinguini" NerdCred="3" Popularity="8" SizeInMB="20" TypeOfSoftware="4" Version="1" isOpenSource="True"/>
 <package Name="FragBlast4000" Bugs="2" Description="Fancy 3D graphics and fast paced shooting of other people." NerdCred="1" Popularity="15" SizeInMB="120" TypeOfSoftware="4" Version="1" isOpenSource="False"/>
 <package Name="BurstABubble" Bugs="0" Description="There are bubbles.  You hate bubbles.  Pop those bubbles." NerdCred="0" Popularity="20" SizeInMB="25" TypeOfSoftware="4" Version="1" isOpenSource="True"/>
 <package Name="JustCards" Bugs="0" Description="It's a card game." NerdCred="0" Popularity="5" SizeInMB="20" TypeOfSoftware="4" Version="1" isOpenSource="True"/>
